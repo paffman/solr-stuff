@@ -1,0 +1,2 @@
+mvn archetype:generate -DgroupId=de.pentasys -DartifactId=Pentasys-Solr-Example -DarchetypeArtifactId=maven-archetype
+-webapp -DinteractiveMode=false
